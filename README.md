@@ -1,5 +1,6 @@
 # Wiggles
-https://wiggles.vercel.app/
+https://wiggles.vercel.app/ 
+
 Wiggles is a web application designed to connect pet parents and make their lives a bit easier. <br/>
 
 ## Features
